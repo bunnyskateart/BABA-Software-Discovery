@@ -23,7 +23,7 @@ BABA 2 è un’applicazione per Windows. Può aiutarti a trovare anche programmi
 
 Apri la pagina delle release e scarica **BABA 2.zip**:
 
-[Scarica BABA 2 dalle release](https://github.com/USERNAME/NOME-REPOSITORY/releases/latest)
+[[Scarica BABA 2 dalle release](https://github.com/USERNAME/NOME-REPOSITORY/releases/latest)](https://github.com/bunnyskateart/BABA-Software-Discovery/releases/latest)
 
 ## Installazione e avvio
 
